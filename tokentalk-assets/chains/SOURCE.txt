@@ -1,0 +1,3 @@
+Logo SVGs: https://github.com/0xa3k5/web3icons (MIT)
+ARB, OP, AVAX reused from the existing TokenTalk MarketOpenSource assets: https://github.com/0xa3k5/token-icons, commit 3cce0f390cf902f204a1b3d52f485bcc95d2fe9e (MIT).
+See LICENSE for the copyright and permission notice.
